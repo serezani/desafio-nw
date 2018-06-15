@@ -3,10 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Applications/XAMPP/xamppfiles/htdocs/desafio-nw/application/helpers/util_helper.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/desafio-nw/application/views/guerreiros/frmNovo.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/desafio-nw/application/models/Especialidade_model.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/desafio-nw/application/models/TpGuerreiro_model.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/desafio-nw/application/controllers/Home.php</file>
             <file>file:/Applications/XAMPP/xamppfiles/htdocs/desafio-nw/application/controllers/Guerreiros.php</file>
-            <file>file:/Applications/XAMPP/xamppfiles/htdocs/desafio-nw/application/models/Guerreiro_model.php</file>
-            <file>file:/Applications/XAMPP/xamppfiles/htdocs/desafio-nw/application/views/guerreiros/frmEditar.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/desafio-nw/application/views/home/index.php</file>
         </group>
     </open-files>
 </project-private>
